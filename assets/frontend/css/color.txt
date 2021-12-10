@@ -1,0 +1,7 @@
+Primary Old: #3480ff
+Primary New: #297ec2
+Primary Light: #d8e7ff
+Primary Lighter: #eef5ff
+Primary Lighter+: #f0f6ff
+Primary Dark Old: #303f9f
+Primary Dark New: #00579d
